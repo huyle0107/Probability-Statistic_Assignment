@@ -1,2 +1,7 @@
 # Probability-Statistic_Assignment
-This folder include the topice, the report, data as well as the source code
+
+Dear,
+
+This folder include the topic, the report, datas as well as the source codes.
+
+Thanks for reading my assigment.
